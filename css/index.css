@@ -12,7 +12,7 @@ a{
     font-weight: bold;
     color: black;
 }
-li:active{
+li a :active{
     background-color: gainsboro;
 }
 
